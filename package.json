@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "electron": "^1.6.11",
     "node-notifier": "^5.1.2"
   }
 }
